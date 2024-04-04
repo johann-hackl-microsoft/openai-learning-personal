@@ -112,6 +112,7 @@ venv.bak/
 pyvenv.cfg
 share/
 bin/
+obj/
 
 # Spyder project settings
 .spyderproject
